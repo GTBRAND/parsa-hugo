@@ -1,5 +1,5 @@
 +++
-categories = []
+categories = ["Wireless Headsets"]
 date = 2021-05-01T23:00:00Z
 description = "Prova"
 image = "/images/pexels-screen-post-4526407.jpg"
