@@ -7,8 +7,9 @@ image: images/featured-post/post-4.jpg
 categories:
 - Article
 tags:
-- Photos
-- Article
+- Security
+- 5G
+- Technology
 draft: true
 
 ---
