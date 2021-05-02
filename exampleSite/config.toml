@@ -29,7 +29,7 @@ weight = 3
 [outputs]
 home = ["HTML", "RSS", "JSON"]
 [params]
-address = "6 rip carl Avenue CA 90733"
+address = ""
 author = "gigio68"
 author_image = "images/banner-img.png"
 bio = "Digital writer about consumer, enterprise and fashion products"
