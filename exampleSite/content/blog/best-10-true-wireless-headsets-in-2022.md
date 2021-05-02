@@ -5,7 +5,7 @@ description = "Prova"
 image = "/images/pexels-screen-post-4526407.jpg"
 tags = []
 title = "Best 10 True Wireless Headsets in 2022"
-type = ""
+type = "featured"
 
 +++
 Prova
