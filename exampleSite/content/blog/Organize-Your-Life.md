@@ -1,13 +1,11 @@
 ---
 title: 'Best 10 True Wireless Headsets in 2021 '
-date: 2021-05-01T08:46:10+00:00
+date: 2021-05-01T08:46:10.000+00:00
 description: This is meta description
 type: featured
 image: images/featured-post/post-1.jpg
 categories:
 - Wireless Headsets
-- Bluetooth Headsets
-- TWS
 tags:
 - Photos
 - Finance
