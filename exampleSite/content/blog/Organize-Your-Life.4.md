@@ -5,10 +5,10 @@ description: This is meta description
 type: featured
 image: images/featured-post/post-5.jpg
 categories:
-- Nature
+- Robots
 tags:
-- Fashion
-- Nature
+- Smart Home
+- Technology
 draft: true
 
 ---
