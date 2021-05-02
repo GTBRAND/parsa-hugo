@@ -1,8 +1,8 @@
 ---
 title: Fashion 10 simple rules
-date: 2021-05-01T08:46:10+00:00
+date: 2021-05-01T08:46:10.000+00:00
 description: This is meta description
-type: ''
+type: featured
 image: images/featured-post/post-3.jpg
 categories:
 - Fashion
