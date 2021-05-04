@@ -23,5 +23,9 @@ fields:
 - type: text
   name: type
   label: type
+- name: prova
+  type: boolean
+  label: Prova
+  hidden: false
 pages:
 - exampleSite/content/blog/best-10-true-wireless-headsets-in-2022.md
